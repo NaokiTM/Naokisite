@@ -10,7 +10,7 @@ function dateandtime() {
     today = dd + '/' + mm + '/' + yyyy;
     titlemarquee.innerHTML = today + " " + "Naoki's certi website" + " " + time
 
-    setInterval(everyTime, 60000);
+    setInterval(everyTime, 1000);
 }
 
 dateandtime()
