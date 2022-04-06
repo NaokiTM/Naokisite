@@ -10,7 +10,7 @@ body {
     color:white;
     width: 19.5%;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);;
+    border-color: rgb(0, 200, 255);
 }
 
 #titlemarquee {
@@ -30,7 +30,7 @@ body {
     border: 2px solid;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
-    border-color: rgb(0, 200, 255);;
+    border-color: rgb(0, 200, 255);
 }
 
 #conveyer {
@@ -38,7 +38,7 @@ body {
     background: black ;
     font-size:20pt; 
     border: 2px solid;
-    border-color: rgb(0, 200, 255);;
+    border-color: rgb(0, 200, 255);
 }
 
 a:link {
@@ -72,7 +72,7 @@ a:link {
 #bio {
     color: white;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);;
+    border-color: rgb(0, 200, 255);
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -83,7 +83,7 @@ a:link {
 #musicbutton {
     color: white;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);;
+    border-color: rgb(0, 200, 255);
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -94,7 +94,7 @@ a:link {
 #amonguscontainer {
     color: white;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);;
+    border-color: rgb(0, 200, 255);
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -109,7 +109,7 @@ a:link {
 #ytvideo {
     color: white;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);;
+    border-color: rgb(0, 200, 255);
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
