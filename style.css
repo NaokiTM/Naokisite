@@ -85,5 +85,21 @@ a:link {
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
     font-size: 13pt;
-    width: 19.5%;
+    
 } 
+
+#amonguscontainer {
+    color: blanchedalmond;
+    border: 2px solid;
+    border-color: white;
+    background-color:black;
+    margin-top: 2px;
+    font-family: consolas, "Courier New", monospace;
+    font-size: 17pt;
+    /* width: 23.5%; */
+   
+    top: 90px;
+    position: fixed;
+    right: 8px;
+    
+}
