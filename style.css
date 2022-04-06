@@ -2,13 +2,14 @@ body {
     background-image: url('https://w.wallhaven.cc/full/39/wallhaven-39o5e9.jpg');
     align-items: center;
     font-family: times, "Times New Roman";
+    box-sizing: border-box;
 }
 
 #megamind {
     background-color: black;
     color:blanchedalmond;
     width: 19.5%;
-    border: 2px solid white;
+    border: 2px solid;
 }
 
 #titlemarquee {
@@ -97,9 +98,26 @@ a:link {
     font-family: consolas, "Courier New", monospace;
     font-size: 17pt;
     /* width: 23.5%; */
-   
     top: 90px;
-    position: fixed;
+    position: absolute;
     right: 8px;
+    
+}
+
+#ytvideo {
+    color: blanchedalmond;
+    border: 2px solid;
+    border-color: white;
+    background-color:black;
+    margin-top: 2px;
+    font-family: consolas, "Courier New", monospace;
+    font-size: 17pt;
+    /* width: 23.5%; */
+    top: 90px;
+    position: absolute;
+    
+    right: 490px;
+   
+    
     
 }
