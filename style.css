@@ -7,46 +7,48 @@ body {
 
 #megamind {
     background-color: black;
-    color:blanchedalmond;
+    color:white;
     width: 19.5%;
     border: 2px solid;
+    border-color: rgb(0, 200, 255);;
 }
 
 #titlemarquee {
-    color: blanchedalmond;
+    color: white;
     background: black ;
     font-size:24pt; 
     border: 2px solid;
-    border-color: blanchedalmond;
+    border-color: rgb(0, 200, 255);
     font-family: consolas, "Courier New", monospace;
 }
 
 #linkcontainer {
     font-size: 13pt;
-    color: blanchedalmond;
+    color: white;
     background-color: black;
     width: 19.5%;
     border: 2px solid;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
+    border-color: rgb(0, 200, 255);;
 }
 
 #conveyer {
-    color: blanchedalmond;
+    color: white;
     background: black ;
     font-size:20pt; 
     border: 2px solid;
-    border-color: white;
+    border-color: rgb(0, 200, 255);;
 }
 
 a:link {
-    color: green;
+    color: white;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: blanchedalmond;
+    color: white;
     background-color: transparent;
     text-decoration: none;
   }
@@ -68,9 +70,9 @@ a:link {
 }
 
 #bio {
-    color: blanchedalmond;
+    color: white;
     border: 2px solid;
-    border-color: white;
+    border-color: rgb(0, 200, 255);;
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -79,9 +81,9 @@ a:link {
 }
 
 #musicbutton {
-    color: blanchedalmond;
+    color: white;
     border: 2px solid;
-    border-color: white;
+    border-color: rgb(0, 200, 255);;
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -90,9 +92,9 @@ a:link {
 } 
 
 #amonguscontainer {
-    color: blanchedalmond;
+    color: white;
     border: 2px solid;
-    border-color: white;
+    border-color: rgb(0, 200, 255);;
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -105,9 +107,9 @@ a:link {
 }
 
 #ytvideo {
-    color: blanchedalmond;
+    color: white;
     border: 2px solid;
-    border-color: white;
+    border-color: rgb(0, 200, 255);;
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
