@@ -9,7 +9,8 @@ function dateandtime() {
 
     today = dd + '/' + mm + '/' + yyyy;
     titlemarquee.innerHTML = today + " " + "Naoki's certi website" + " " + time
+
+    setInterval(everyTime, 60000);
 }
 
 dateandtime()
-console.log("the date and time don't refresh until you refresh the page :)")
