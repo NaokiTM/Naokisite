@@ -13,4 +13,24 @@ function dateandtime() {
     setInterval(everyTime, 1000);
 }
 
+function playmario() {
+    var audio = new Audio("audio/mario.mp3");
+    if (audio.play) {
+        audio.play();
+    }else{
+        audio.currentTime = 0
+    }
+}
+
+
+function playpokemon() {
+    var audio = new Audio("audio/boutique.mp3");
+    if (audio.paused) {
+        audio.play();
+    }else{
+        audio.currentTime = 0
+    }
+}
+
 dateandtime()
+
