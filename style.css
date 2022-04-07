@@ -1,5 +1,6 @@
 body {
-    background-image: url('images/rogbackground2.gif');
+    background-image: url('images/space.jpg');
+    background-size: cover;
     align-items: center;
     font-family: times, "Times New Roman";
     box-sizing: border-box;
@@ -10,7 +11,7 @@ body {
     color:white;
     width: 19.5%;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);
+    border-color: white;
 }
 
 #titlemarquee {
@@ -18,7 +19,7 @@ body {
     background: black ;
     font-size:24pt; 
     border: 2px solid;
-    border-color: rgb(0, 200, 255);
+    border-color: white;
     font-family: consolas, "Courier New", monospace;
 }
 
@@ -30,7 +31,7 @@ body {
     border: 2px solid;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
-    border-color: rgb(0, 200, 255);
+    border-color: white;
 }
 
 #conveyer {
@@ -38,7 +39,7 @@ body {
     background: black ;
     font-size:20pt; 
     border: 2px solid;
-    border-color: rgb(0, 200, 255);
+    border-color: white;
 }
 
 a:link {
@@ -72,7 +73,7 @@ a:link {
 #bio {
     color: white;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);
+    border-color: white;
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -83,7 +84,7 @@ a:link {
 #musicbutton {
     color: white;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);
+    border-color: white;
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -94,7 +95,7 @@ a:link {
 #amonguscontainer {
     color: white;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);
+    border-color: white;
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -109,7 +110,7 @@ a:link {
 #ytvideo {
     color: white;
     border: 2px solid;
-    border-color: rgb(0, 200, 255);
+    border-color: white;
     background-color:black;
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
@@ -119,3 +120,16 @@ a:link {
     position: absolute;
     right: 490px;
 }
+
+#bouncebox {
+    background-image: url("images/water.jpg");
+    color: white;
+    border: 2px solid;
+    border-color: white;
+    background-color:black;
+    margin-top: 2px;
+    font-family: consolas, "Courier New", monospace;
+    font-size: 17pt;
+    /* width: 23.5%; */
+}   
+    
