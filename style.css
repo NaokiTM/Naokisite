@@ -115,10 +115,11 @@ a:link {
     margin-top: 2px;
     font-family: consolas, "Courier New", monospace;
     font-size: 17pt;
-    /* width: 23.5%; */
+    /* width: 23.5%;  */
     top: 90px;
     position: absolute;
     right: 490px;
+    margin:auto;
 }
 
 #bouncebox {
@@ -132,4 +133,14 @@ a:link {
     font-size: 17pt;
     /* width: 23.5%; */
 }   
+
+footer {
+    text-align: center;
+    font-family: consolas, "Courier New", monospace;
+    font-size: 20px;
+    border: 2px solid;
+    border-color: white;
+    color: white;
+    background-color:black;
+}
     
